@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Single Screen App</string>
+    <string name="location1">Mombasa, Kenya</string>
+    <string name="Contact1">hus.swaleh@yahoo.com</string>
+    <string name="Contact2">(+254)729 530 573</string>
+    <string name="Business">Heroz Wear</string>
+    <string name="Order">Order T-shirt</string>
+    <string name="Opening_hours1">Mon. - Fri.</string>
+    <string name="Opening_hours2">8:00am - 5:00pm</string>
+    <string name="Opening_hours3">Sat. - Sun.</string>
+    <string name="Opening_hours4">9:00am - 12:00pm</string>
+    <string name="Separator">|</string>
+    <string name="Opening_hours5">Opening Hours</string>
+    <string name="Details">Contacts</string>
+    <string name="Description">Heroz Wear is your destination for the latest trending and stylish wear in town</string>
+    <string name="name">Swaleh</string>
+</resources>
